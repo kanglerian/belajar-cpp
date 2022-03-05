@@ -2,8 +2,8 @@
 
 > Membuat form input sederhana menggunakan `getline()`. `getline()` ini digunakan untuk mendapatkan hasil input berupa spasi. Dan jika halnya `cin` saja maka `space` tidak akan tersimpan.
 
-1. Program Basic Input String
-Disini kita mencoba untuk memasukan kalimat salam dan nama lengkap.
+### Program Basic Input String
+> Disini kita mencoba untuk memasukan kalimat salam dan nama lengkap.
 
 ```cpp
 #include <iostream>
@@ -24,8 +24,8 @@ int main()
 }
 ```
 
-2. Program Function Input String
-Disini kita mencoba untuk memasukan kalimat salam dan nama, dengan menggunakan `function` dan `getline()`;
+### Program Function Input String
+> Disini kita mencoba untuk memasukan kalimat salam dan nama, dengan menggunakan `function` dan `getline()`;
 
 
 ```cpp
