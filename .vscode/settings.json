@@ -5,6 +5,7 @@
         "cstdio": "cpp",
         "sstream": "cpp",
         "typeinfo": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "ostream": "cpp"
     }
 }
