@@ -12,9 +12,9 @@ int main()
     string salam, nama;
  
     cout << "Masukan salam: ";
-    getline(cin, salam);
+    getline(cin, salam); // digunakan untuk menampung salam
     cout << "Masukan nama lengkap: ";
-    getline(cin, nama);
+    getline(cin, nama); // digunakan untuk menampung nama
     cout << salam << " " << nama << endl;
  
     return 0;
