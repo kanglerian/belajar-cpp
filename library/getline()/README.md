@@ -1,4 +1,4 @@
-# **Membuat Form Input Sederhana - getline()**
+# **Program C++ Sederhana - Ucapan salam**
 
 > Membuat form input sederhana menggunakan `getline()`. `getline()` ini digunakan untuk mendapatkan hasil input berupa spasi. Dan jika halnya `cin` saja maka `space` tidak akan tersimpan.
 
